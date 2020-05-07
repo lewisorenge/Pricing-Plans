@@ -1,5 +1,5 @@
 {
-  "name": "coronavirus-awarenss",
+  "name": "pricingplans",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -29,7 +29,7 @@
     "gettext": "npm run gettext:compile && npm run gettext:convert"
   },
   "eslintConfig": {
-    "extends": "coronavirus-awarenss"
+    "extends": "pricingplans"
   },
   "browserslist": {
     "production": [
