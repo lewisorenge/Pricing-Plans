@@ -19,7 +19,7 @@ class Home extends React.Component {
 
                         <div className="pricing-plan">
                             <img src="https://s22.postimg.cc/8mv5gn7w1/paper-plane.png" alt="" className="pricing-img" />
-                            <h5 className="pricing-header">Personal</h5>
+                            <h5 className="pricing-header">Bronze</h5>
                             <ul className="pricing-features">
                                 <li className="pricing-features-item">Custom domains</li>
                                 <li className="pricing-features-item">Sleeps after 30 mins of inactivity</li>
@@ -30,7 +30,7 @@ class Home extends React.Component {
 
                         <div className="pricing-plan">
                             <img src="https://s28.postimg.cc/ju5bnc3x9/plane.png" alt="" className="pricing-img" />
-                            <h5 className="pricing-header">Small team</h5>
+                            <h5 className="pricing-header">Silver</h5>
                             <ul className="pricing-features">
                                 <li className="pricing-features-item">Never sleeps</li>
                                 <li className="pricing-features-item">Multiple workers for more powerful apps</li>
@@ -41,7 +41,7 @@ class Home extends React.Component {
 
                         <div className="pricing-plan">
                             <img src="https://s21.postimg.cc/tpm0cge4n/space-ship.png" alt="" className="pricing-img" />
-                            <h5 className="pricing-header">Enterprise</h5>
+                            <h5 className="pricing-header">Gold</h5>
                             <ul className="pricing-features">
                                 <li className="pricing-features-item">Dedicated</li>
                                 <li className="pricing-features-item">Simple horizontal scalability</li>
