@@ -1,10 +1,9 @@
 # Pricing-Page
 Pricing Plan Page [Appruve Interview Solution], for the Frontend Developer Role at Appruve https://www.appruve.co/
 
-
 ## Available Scripts
 
-In the cd to project directory, you can run:
+Cd to project directory, you can run:
 
 ### `npm start`
 
