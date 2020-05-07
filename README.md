@@ -1,5 +1,5 @@
 # Pricing-Page
-Pricing Table Page [Appruve Interview Solution], for the Frontend Developer Role at Appruve https://www.appruve.co/
+Pricing Plan Page [Appruve Interview Solution], for the Frontend Developer Role at Appruve https://www.appruve.co/
 
 
 ## Available Scripts
