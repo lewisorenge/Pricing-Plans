@@ -31,9 +31,7 @@ class CreditOption extends React.Component {
                             </div>
 
                             <p className="mb-4">
-                                In publishing and graphic design, Lorem ipsum is a
-                                placeholder text commonly used to demonstrate the visual
-                                form of a document or a typeface without relying on meaningful content.
+                               Nice to have you onboard.Cheers
                                 </p>
 
                             <Link to="/" className="btn btn-primary btn-lg btn-block">Go Home</Link>
